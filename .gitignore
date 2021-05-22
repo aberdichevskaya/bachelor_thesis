@@ -84,6 +84,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+fit_language_models
+creation_for_module1
 
 # IPython
 profile_default/
