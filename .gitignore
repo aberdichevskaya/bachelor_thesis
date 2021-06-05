@@ -4,6 +4,7 @@ build/*
 __pycache__/*
 fit_language_models/*
 creation_for_module1/*
+catboost_info/*
 
 /data
 
@@ -86,6 +87,7 @@ target/
 .ipynb_checkpoints
 fit_language_models
 creation_for_module1
+catboost_info
 
 # IPython
 profile_default/
